@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc6be3d1-0af1-486c-a4df-dbe0b923a19e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_TS_Basics/01_app.ts" afterPath="$PROJECT_DIR$/01_TS_Basics/01_app.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03_ES6_Default_Parameters/03_app.ts" afterPath="$PROJECT_DIR$/03_ES6_Default_Parameters/03_app.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_ES6_Template_Strings/04_ES6_Template_Strings.html" afterPath="$PROJECT_DIR$/04_ES6_Template_Strings/04_ES6_Template_Strings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_ES6_Template_Strings/04_app.ts" afterPath="$PROJECT_DIR$/04_ES6_Template_Strings/04_app.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_ES6_Template_Strings/styles.css" afterPath="$PROJECT_DIR$/04_ES6_Template_Strings/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_ES6_Let_and_Const/05_app.ts" afterPath="$PROJECT_DIR$/05_ES6_Let_and_Const/05_app.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1.Completed/TS_Basics.html" afterPath="$PROJECT_DIR$/1.Completed/01.TS_basics/TS_Basics.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1.Completed/Ts_basic.js" afterPath="$PROJECT_DIR$/1.Completed/01.TS_basics/Ts_basic.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/1.Completed/Ts_basic.ts" afterPath="$PROJECT_DIR$/1.Completed/01.TS_basics/Ts_basic.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,21 +19,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TS_Basics.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.Completed/TS_Basics.html">
+      <file leaf-file-name="Default_parameter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="187">
+              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Default_parameter.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ts_basic.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1.Completed/Ts_basic.ts">
+      <file leaf-file-name="TS_Basics.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.Completed/01.TS_basics/TS_Basics.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state relative-caret-position="170">
+              <caret line="10" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -65,6 +75,8 @@
         <option value="$PROJECT_DIR$/05_ES6_Let_and_Const/05_app.ts" />
         <option value="$PROJECT_DIR$/1.Completed/TS_Basics.html" />
         <option value="$PROJECT_DIR$/1.Completed/Ts_basic.ts" />
+        <option value="$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.html" />
+        <option value="$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.ts" />
       </list>
     </option>
   </component>
@@ -114,7 +126,8 @@
             <path>
               <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
-              <item name="01_TS_Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="1.Completed" type="462c0819:PsiDirectoryNode" />
+              <item name="2.Default_parameter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -129,6 +142,11 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\TypeScript\1.Completed\01.TS_basics" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,12 +172,12 @@
       <updated>1533983702435</updated>
       <workItem from="1533983704309" duration="5596000" />
       <workItem from="1533995483254" duration="748000" />
-      <workItem from="1534002310848" duration="1149000" />
+      <workItem from="1534002310848" duration="2132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7493000" />
+    <option name="totallyTimeSpent" value="8476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -172,7 +190,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.46217105" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46217105" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -193,7 +211,7 @@
         <option value="$PROJECT_DIR$/04_ES6_Template_Strings/04_app.js" />
         <option value="$PROJECT_DIR$/02_ES_6_Features/02_app.js" />
         <option value="$PROJECT_DIR$/05_ES6_Let_and_Const/05_app.js" />
-        <option value="$PROJECT_DIR$/1.Completed/Ts_basic.js" />
+        <option value="$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.js" />
       </list>
     </option>
   </component>
@@ -218,7 +236,7 @@
         <state relative-caret-position="425">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -236,7 +254,7 @@
         <state relative-caret-position="289">
           <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -319,16 +337,8 @@
         <state relative-caret-position="305">
           <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.Completed/TS_Basics.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="19" column="16" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -340,10 +350,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.Completed/Ts_basic.ts">
+    <entry file="file://$PROJECT_DIR$/1.Completed/01.TS_basics/Ts_basic.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
           <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.Completed/01.TS_basics/TS_Basics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
           <folding />
         </state>
       </provider>
