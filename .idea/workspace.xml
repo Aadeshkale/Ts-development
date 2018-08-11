@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fc6be3d1-0af1-486c-a4df-dbe0b923a19e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1.Completed/TS_Basics.html" afterPath="$PROJECT_DIR$/1.Completed/01.TS_basics/TS_Basics.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1.Completed/Ts_basic.js" afterPath="$PROJECT_DIR$/1.Completed/01.TS_basics/Ts_basic.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1.Completed/Ts_basic.ts" afterPath="$PROJECT_DIR$/1.Completed/01.TS_basics/Ts_basic.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Default_parameter.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.html">
+      <file leaf-file-name="3.html_tags_through_TS.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/3.html_tags_through_TS.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            <state relative-caret-position="68">
+              <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -31,22 +28,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Default_parameter.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.ts">
+      <file leaf-file-name="html_ts.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/html_ts.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1534006311974" expanded="true" signature="370:397" ph="..." />
+                <marker date="1534006311974" expanded="true" signature="398:413" ph="..." />
+                <marker date="1534006311974" expanded="true" signature="398:499" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TS_Basics.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.Completed/01.TS_basics/TS_Basics.html">
+      <file leaf-file-name="04_app.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_ES6_Template_Strings/04_app.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="169">
+              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <marker date="1533988025803" expanded="true" signature="576:603" ph="..." />
+                <marker date="1533988025803" expanded="true" signature="886:911" ph="..." />
+                <marker date="1533988025803" expanded="true" signature="912:943" ph="..." />
+                <marker date="1533988025803" expanded="true" signature="912:1001" ph="..." />
+                <marker date="1533988025803" expanded="true" signature="912:1048" ph="..." />
+                <marker date="1533988025803" expanded="true" signature="912:1091" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,6 +85,9 @@
         <option value="$PROJECT_DIR$/1.Completed/Ts_basic.ts" />
         <option value="$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.html" />
         <option value="$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.ts" />
+        <option value="$PROJECT_DIR$/1.Completed/3.html_tags_through_TS.html" />
+        <option value="$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/3.html_tags_through_TS.html" />
+        <option value="$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/html_ts.ts" />
       </list>
     </option>
   </component>
@@ -127,7 +138,12 @@
               <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
               <item name="1.Completed" type="462c0819:PsiDirectoryNode" />
-              <item name="2.Default_parameter" type="462c0819:PsiDirectoryNode" />
+              <item name="3.Html_tags_through_ts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
+              <item name="04_ES6_Template_Strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,6 +161,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\TypeScript\1.Completed\3.Html_tags_through_ts" />
       <recent name="X:\TypeScript\1.Completed\01.TS_basics" />
     </key>
   </component>
@@ -172,12 +189,12 @@
       <updated>1533983702435</updated>
       <workItem from="1533983704309" duration="5596000" />
       <workItem from="1533995483254" duration="748000" />
-      <workItem from="1534002310848" duration="2132000" />
+      <workItem from="1534002310848" duration="3975000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8476000" />
+    <option name="totallyTimeSpent" value="10319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -212,6 +229,7 @@
         <option value="$PROJECT_DIR$/02_ES_6_Features/02_app.js" />
         <option value="$PROJECT_DIR$/05_ES6_Let_and_Const/05_app.js" />
         <option value="$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.js" />
+        <option value="$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/html_ts.js" />
       </list>
     </option>
   </component>
@@ -301,22 +319,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04_ES6_Template_Strings/04_app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="41" column="57" lean-forward="true" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <marker date="1533988025803" expanded="true" signature="576:603" ph="..." />
-            <marker date="1533988025803" expanded="true" signature="886:911" ph="..." />
-            <marker date="1533988025803" expanded="true" signature="912:943" ph="..." />
-            <marker date="1533988025803" expanded="true" signature="912:1001" ph="..." />
-            <marker date="1533988025803" expanded="true" signature="912:1048" ph="..." />
-            <marker date="1533988025803" expanded="true" signature="912:1091" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_ES6_Template_Strings/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -366,6 +368,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -376,11 +386,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.ts">
+    <entry file="file://$PROJECT_DIR$/04_ES6_Template_Strings/04_app.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding />
+        <state relative-caret-position="169">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <marker date="1533988025803" expanded="true" signature="576:603" ph="..." />
+            <marker date="1533988025803" expanded="true" signature="886:911" ph="..." />
+            <marker date="1533988025803" expanded="true" signature="912:943" ph="..." />
+            <marker date="1533988025803" expanded="true" signature="912:1001" ph="..." />
+            <marker date="1533988025803" expanded="true" signature="912:1048" ph="..." />
+            <marker date="1533988025803" expanded="true" signature="912:1091" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/html_ts.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1534006311974" expanded="true" signature="370:397" ph="..." />
+            <marker date="1534006311974" expanded="true" signature="398:413" ph="..." />
+            <marker date="1534006311974" expanded="true" signature="398:499" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/3.html_tags_through_TS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
