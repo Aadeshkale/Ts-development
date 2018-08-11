@@ -16,45 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3.html_tags_through_TS.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/3.html_tags_through_TS.html">
+      <file leaf-file-name="Let_var_const_scope.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.Completed/4.Let_var_const_scpe/Let_var_const_scope.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="31" />
-              <folding>
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="html_ts.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/html_ts.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1534006311974" expanded="true" signature="370:397" ph="..." />
-                <marker date="1534006311974" expanded="true" signature="398:413" ph="..." />
-                <marker date="1534006311974" expanded="true" signature="398:499" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04_app.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_ES6_Template_Strings/04_app.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-              <folding>
-                <marker date="1533988025803" expanded="true" signature="576:603" ph="..." />
-                <marker date="1533988025803" expanded="true" signature="886:911" ph="..." />
-                <marker date="1533988025803" expanded="true" signature="912:943" ph="..." />
-                <marker date="1533988025803" expanded="true" signature="912:1001" ph="..." />
-                <marker date="1533988025803" expanded="true" signature="912:1048" ph="..." />
-                <marker date="1533988025803" expanded="true" signature="912:1091" ph="..." />
-              </folding>
+            <state relative-caret-position="442">
+              <caret line="26" column="72" lean-forward="true" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,6 +55,8 @@
         <option value="$PROJECT_DIR$/1.Completed/3.html_tags_through_TS.html" />
         <option value="$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/3.html_tags_through_TS.html" />
         <option value="$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/html_ts.ts" />
+        <option value="$PROJECT_DIR$/1.Completed/4.Let_var_const_scpe/Let_var_const_scope.html" />
+        <option value="$PROJECT_DIR$/1.Completed/4.Let_var_const_scpe/Let_var_const_scope.ts" />
       </list>
     </option>
   </component>
@@ -138,12 +107,7 @@
               <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
               <item name="1.Completed" type="462c0819:PsiDirectoryNode" />
-              <item name="3.Html_tags_through_ts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
-              <item name="04_ES6_Template_Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="4.Let_var_const_scpe" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -189,12 +153,12 @@
       <updated>1533983702435</updated>
       <workItem from="1533983704309" duration="5596000" />
       <workItem from="1533995483254" duration="748000" />
-      <workItem from="1534002310848" duration="3975000" />
+      <workItem from="1534002310848" duration="5404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10319000" />
+    <option name="totallyTimeSpent" value="11748000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -230,6 +194,7 @@
         <option value="$PROJECT_DIR$/05_ES6_Let_and_Const/05_app.js" />
         <option value="$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.js" />
         <option value="$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/html_ts.js" />
+        <option value="$PROJECT_DIR$/1.Completed/4.Let_var_const_scpe/Let_var_const_scope.js" />
       </list>
     </option>
   </component>
@@ -401,6 +366,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/3.html_tags_through_TS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/html_ts.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -413,13 +388,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/3.html_tags_through_TS.html">
+    <entry file="file://$PROJECT_DIR$/1.Completed/4.Let_var_const_scpe/Let_var_const_scope.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="31" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="31" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="408">
+          <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.Completed/4.Let_var_const_scpe/Let_var_const_scope.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="72" lean-forward="true" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+          <folding />
         </state>
       </provider>
     </entry>
