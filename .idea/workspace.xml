@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc6be3d1-0af1-486c-a4df-dbe0b923a19e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02_ES_6_Features/02_ES_6_Features.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02_ES_6_Features/02_app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02_ES_6_Features/02_app.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02_ES_6_Features/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/02_ES_6_Features/tsconfig.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.Completed/01.TS_basics/TS_Basics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.Completed/01.TS_basics/Ts_basic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.Completed/01.TS_basics/Ts_basic.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.Completed/2.Default_parameter/Default_parameter.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/3.html_tags_through_TS.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/html_ts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.Completed/3.Html_tags_through_ts/html_ts.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.Completed/4.Let_var_const_scpe/Let_var_const_scope.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.Completed/4.Let_var_const_scpe/Let_var_const_scope.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/1.Completed/4.Let_var_const_scpe/Let_var_const_scope.ts" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_ES6_Template_Strings/04_app.js" afterPath="$PROJECT_DIR$/04_ES6_Template_Strings/04_app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_ES6_Template_Strings/04_app.ts" afterPath="$PROJECT_DIR$/04_ES6_Template_Strings/04_app.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_ES6_For_of_Loops/06_app.ts" afterPath="$PROJECT_DIR$/06_ES6_For_of_Loops/06_app.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07_ES6_Lamdas_or_Arrow_Functions/07_app.ts" afterPath="$PROJECT_DIR$/07_ES6_Lamdas_or_Arrow_Functions/07_app.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08_ES6_Destructing/08_ES6_Destrcting.html" afterPath="$PROJECT_DIR$/08_ES6_Destructing/08_ES6_Destrcting.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08_ES6_Destructing/08_app.ts" afterPath="$PROJECT_DIR$/08_ES6_Destructing/08_app.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09_ES6_The_Spread_Operator/09_app.ts" afterPath="$PROJECT_DIR$/09_ES6_The_Spread_Operator/09_app.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10_TS_Data_Types/10_app.ts" afterPath="$PROJECT_DIR$/10_TS_Data_Types/10_app.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11_TS_Functions/11_app.ts" afterPath="$PROJECT_DIR$/11_TS_Functions/11_app.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08_ES6_Destructing/08_app.js" afterPath="$PROJECT_DIR$/08_ES6_Destructing/08_app.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,11 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="11_app.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11_TS_Functions/11_app.ts">
+      <file leaf-file-name="destructing.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="destructing.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -102,6 +86,8 @@
         <option value="$PROJECT_DIR$/09_ES6_The_Spread_Operator/09_app.ts" />
         <option value="$PROJECT_DIR$/10_TS_Data_Types/10_app.ts" />
         <option value="$PROJECT_DIR$/11_TS_Functions/11_app.ts" />
+        <option value="$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.html" />
+        <option value="$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.ts" />
       </list>
     </option>
   </component>
@@ -145,7 +131,25 @@
             <path>
               <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
-              <item name="11_TS_Functions" type="462c0819:PsiDirectoryNode" />
+              <item name="01.Completed" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
+              <item name="01.Completed" type="462c0819:PsiDirectoryNode" />
+              <item name="8.Destructing_ts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
+              <item name="01.Completed" type="462c0819:PsiDirectoryNode" />
+              <item name="8.Destructing_ts" type="462c0819:PsiDirectoryNode" />
+              <item name="destructing.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
+              <item name="08_ES6_Destructing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -200,12 +204,12 @@
       <workItem from="1534156852988" duration="2924000" />
       <workItem from="1534227349763" duration="3393000" />
       <workItem from="1534242777245" duration="5089000" />
-      <workItem from="1534255273945" duration="252000" />
+      <workItem from="1534255273945" duration="1938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37699000" />
+    <option name="totallyTimeSpent" value="39385000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -245,6 +249,7 @@
         <option value="$PROJECT_DIR$/09_ES6_The_Spread_Operator/09_app.js" />
         <option value="$PROJECT_DIR$/10_TS_Data_Types/10_app.js" />
         <option value="$PROJECT_DIR$/11_TS_Functions/11_app.js" />
+        <option value="$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.js" />
       </list>
     </option>
   </component>
@@ -256,21 +261,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07_ES6_Lamdas_or_Arrow_Functions/07_app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="50" column="33" lean-forward="true" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14_Mini_Project/14_Mini_Project.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.Completed/form/form.html" />
     <entry file="file://$USER_HOME$/Desktop/JavaScript_Development-master/4PM_BATCH/19_Form_Validation/19_script.js" />
     <entry file="file://$USER_HOME$/Desktop/JavaScript_Development-master/4PM_BATCH/19_Form_Validation/19_styles.css" />
     <entry file="file://$USER_HOME$/Desktop/JavaScript_Development-master/4PM_BATCH/19_Form_Validation/19_Form_Validation.html" />
@@ -435,6 +425,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -442,6 +433,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-102">
           <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -449,13 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_ES6_Destructing/08_app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="34" column="11" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -484,6 +471,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_ES6_Destructing/08_app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="45" column="14" lean-forward="true" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="14" />
           <folding />
         </state>
       </provider>
