@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fc6be3d1-0af1-486c-a4df-dbe0b923a19e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10_TS_Data_Types/10_app.js" afterPath="$PROJECT_DIR$/10_TS_Data_Types/10_app.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,31 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Datatypes in typeScript.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01.Completed/10.Datatypes/Datatypes in typeScript.html">
+      <file leaf-file-name="11_app.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_TS_Functions/11_app.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="153">
+              <caret line="35" column="54" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="35" selection-end-column="54" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Datatypes.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01.Completed/10.Datatypes/Datatypes.ts">
+      <file leaf-file-name="Fuction.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01.Completed/11.Function_Ts/Fuction.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10_app.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_TS_Data_Types/10_app.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="104" column="59" lean-forward="true" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="59" />
+            <state relative-caret-position="93">
+              <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -96,13 +85,16 @@
         <option value="$PROJECT_DIR$/08_ES6_Destructing/08_app.ts" />
         <option value="$PROJECT_DIR$/09_ES6_The_Spread_Operator/09_app.ts" />
         <option value="$PROJECT_DIR$/10_TS_Data_Types/10_app.ts" />
-        <option value="$PROJECT_DIR$/11_TS_Functions/11_app.ts" />
         <option value="$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.html" />
         <option value="$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.ts" />
         <option value="$PROJECT_DIR$/01.Completed/9.Spread_oprator/spread oprator.html" />
         <option value="$PROJECT_DIR$/01.Completed/9.Spread_oprator/spread.ts" />
         <option value="$PROJECT_DIR$/01.Completed/10.Datatypes/Datatypes.ts" />
         <option value="$PROJECT_DIR$/01.Completed/10.Datatypes/Datatypes in typeScript.html" />
+        <option value="$PROJECT_DIR$/01.Completed/function_ts/Fuction_ts.html" />
+        <option value="$PROJECT_DIR$/01.Completed/function_ts/Fuction.ts" />
+        <option value="$PROJECT_DIR$/11_TS_Functions/11_app.ts" />
+        <option value="$PROJECT_DIR$/01.Completed/11.Function_Ts/Fuction.ts" />
       </list>
     </option>
   </component>
@@ -152,19 +144,19 @@
               <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
               <item name="01.Completed" type="462c0819:PsiDirectoryNode" />
-              <item name="10.Datatypes" type="462c0819:PsiDirectoryNode" />
+              <item name="11.Function_Ts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
               <item name="01.Completed" type="462c0819:PsiDirectoryNode" />
-              <item name="10.Datatypes" type="462c0819:PsiDirectoryNode" />
-              <item name="Datatypes.ts" type="620a8d5e:NestingTreeNode" />
+              <item name="11.Function_Ts" type="462c0819:PsiDirectoryNode" />
+              <item name="Fuction.ts" type="620a8d5e:NestingTreeNode" />
             </path>
             <path>
               <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
-              <item name="10_TS_Data_Types" type="462c0819:PsiDirectoryNode" />
+              <item name="11_TS_Functions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -184,6 +176,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\TypeScript\01.Completed\11.Function_js" />
       <recent name="X:\TypeScript\01.Completed\form" />
       <recent name="X:\TypeScript\1.Completed\3.Html_tags_through_ts" />
       <recent name="X:\TypeScript\1.Completed\01.TS_basics" />
@@ -219,12 +212,12 @@
       <workItem from="1534156852988" duration="2924000" />
       <workItem from="1534227349763" duration="3393000" />
       <workItem from="1534242777245" duration="5089000" />
-      <workItem from="1534255273945" duration="3661000" />
+      <workItem from="1534255273945" duration="6254000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41108000" />
+    <option name="totallyTimeSpent" value="43701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -278,34 +271,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/06_ES6_For_of_Loops/06_app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_ES6_Let_and_Const/06_Let_and_Const.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_ES6_Let_and_Const/05_app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_ES6_Let_and_Const/06_Let_and_Const.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05_ES6_Let_and_Const/05_app.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -459,14 +424,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11_TS_Functions/11_app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08_ES6_Destructing/08_app.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -531,10 +488,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10_TS_Data_Types/10_app.ts">
+    <entry file="file://$PROJECT_DIR$/01.Completed/10.Datatypes/Datatypes in typeScript.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="104" column="59" lean-forward="true" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="59" />
+        <state relative-caret-position="272">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -547,10 +504,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.Completed/10.Datatypes/Datatypes in typeScript.html">
+    <entry file="file://$PROJECT_DIR$/10_TS_Data_Types/10_app.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="161">
+          <caret line="104" column="59" lean-forward="true" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Completed/11.Function_Ts/Fuction_ts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_TS_Data_Types/10_TS_DataTypes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_TS_Functions/11_TS_Functions.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_TS_Functions/11_app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="35" column="54" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="35" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Completed/11.Function_Ts/Fuction.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
           <folding />
         </state>
       </provider>
