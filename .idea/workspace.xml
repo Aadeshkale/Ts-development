@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc6be3d1-0af1-486c-a4df-dbe0b923a19e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08_ES6_Destructing/08_app.js" afterPath="$PROJECT_DIR$/08_ES6_Destructing/08_app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09_ES6_The_Spread_Operator/09_app.js" afterPath="$PROJECT_DIR$/09_ES6_The_Spread_Operator/09_app.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,21 +17,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="destructing.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.ts">
+      <file leaf-file-name="09_app.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09_ES6_The_Spread_Operator/09_app.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="14" />
+            <state relative-caret-position="119">
+              <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="destructing.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.js">
+      <file leaf-file-name="spread oprator.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.Completed/9.Spread_oprator/spread oprator.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="238">
+              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spread.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01.Completed/9.Spread_oprator/spread.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09_ES6_The_Spread_Operator.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09_ES6_The_Spread_Operator/09_ES6_The_Spread_Operator.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -88,6 +109,8 @@
         <option value="$PROJECT_DIR$/11_TS_Functions/11_app.ts" />
         <option value="$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.html" />
         <option value="$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.ts" />
+        <option value="$PROJECT_DIR$/01.Completed/9.Spread_oprator/spread oprator.html" />
+        <option value="$PROJECT_DIR$/01.Completed/9.Spread_oprator/spread.ts" />
       </list>
     </option>
   </component>
@@ -137,19 +160,12 @@
               <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
               <item name="01.Completed" type="462c0819:PsiDirectoryNode" />
-              <item name="8.Destructing_ts" type="462c0819:PsiDirectoryNode" />
+              <item name="9.Spread_oprator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
               <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
-              <item name="01.Completed" type="462c0819:PsiDirectoryNode" />
-              <item name="8.Destructing_ts" type="462c0819:PsiDirectoryNode" />
-              <item name="destructing.ts" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="TypeScript" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TypeScript" type="462c0819:PsiDirectoryNode" />
-              <item name="08_ES6_Destructing" type="462c0819:PsiDirectoryNode" />
+              <item name="09_ES6_The_Spread_Operator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,12 +220,12 @@
       <workItem from="1534156852988" duration="2924000" />
       <workItem from="1534227349763" duration="3393000" />
       <workItem from="1534242777245" duration="5089000" />
-      <workItem from="1534255273945" duration="1938000" />
+      <workItem from="1534255273945" duration="2827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39385000" />
+    <option name="totallyTimeSpent" value="40274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -250,6 +266,7 @@
         <option value="$PROJECT_DIR$/10_TS_Data_Types/10_app.js" />
         <option value="$PROJECT_DIR$/11_TS_Functions/11_app.js" />
         <option value="$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.js" />
+        <option value="$PROJECT_DIR$/01.Completed/9.Spread_oprator/spread.js" />
       </list>
     </option>
   </component>
@@ -261,8 +278,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/JavaScript_Development-master/4PM_BATCH/19_Form_Validation/19_script.js" />
-    <entry file="file://$USER_HOME$/Desktop/JavaScript_Development-master/4PM_BATCH/19_Form_Validation/19_styles.css" />
     <entry file="file://$USER_HOME$/Desktop/JavaScript_Development-master/4PM_BATCH/19_Form_Validation/19_Form_Validation.html" />
     <entry file="file://$PROJECT_DIR$/01.Completed/form/form.js" />
     <entry file="file://$PROJECT_DIR$/06_ES6_For_of_Loops/06_app.ts">
@@ -446,20 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09_ES6_The_Spread_Operator/09_app.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_ES6_The_Spread_Operator/09_ES6_The_Spread_Operator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/10_TS_Data_Types/10_app.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
@@ -471,14 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -501,8 +494,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.ts">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="27" column="60" lean-forward="true" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Completed/8.Destructing_ts/destructing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Completed/9.Spread_oprator/spread oprator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_ES6_The_Spread_Operator/09_ES6_The_Spread_Operator.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="14" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_ES6_The_Spread_Operator/09_app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Completed/9.Spread_oprator/spread.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="17" />
           <folding />
         </state>
       </provider>
