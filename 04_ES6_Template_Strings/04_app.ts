@@ -22,7 +22,7 @@ let car ={
     color:'white'
 }
 
-    // logest way
+    // longest way
 let strConcat = "<div style='background-color: orangered'>" +
                    "<h3> Model:"+car.model +"</h3>"+
                     "<h3> Year:"+car.year +"</h3>"+
